@@ -1,4 +1,4 @@
-# So sánh thời gian thực hiện mã hóa và giải mã AES và RC4 trong Python
+# So sánh thời gian thực hiện mã hóa và giải mã AES và RC4 trên cùng 1 file ảnh và cùng 1 thiết bị
 
 ## AES
 
